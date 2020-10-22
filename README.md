@@ -1,4 +1,10 @@
 # Phonograph
+
+This is a fork of the Phonograph project.
+The initial goal of this fork is to play around with re-branding and customizing the interface.
+
+The original project can be found here:
+https://github.com/kabouzeid/Phonograph
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/kabouzeid/Phonograph/blob/master/LICENSE.txt)
 
 **A material designed local music player for Android.**
